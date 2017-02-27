@@ -1,0 +1,8 @@
+{
+    "name": "krishnakodoth/Test",
+    "autoload": {
+        "psr-0" : {
+            "kp\\testZone" : "src"
+        }
+    }
+}
